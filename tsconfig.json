@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": ".",
+        "sourceMap": false,
+        "noImplicitAny": true,
+    },
+    "exclude": [
+    ],
+}

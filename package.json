@@ -1,0 +1,17 @@
+{
+  "name": "md2html",
+  "version": "1.0.0",
+  "description": "Some sample code",
+  "main": "md2html-cli.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.5.10",
+    "@types/node": "^14.0.4",
+    "jasmine": "^3.5.0"
+  }
+}
